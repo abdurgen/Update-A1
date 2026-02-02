@@ -1,0 +1,5 @@
+{
+  "name": "Update",
+  "description": "An application to enhance a script with motivational and energetic language, and then generate a voice-over using various AI voice models.",
+  "requestFramePermissions": []
+}
